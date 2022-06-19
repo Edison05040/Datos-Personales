@@ -1,0 +1,14 @@
+
+.fondo{
+    width: 100%;
+   position: fixed;
+    z-index:100;
+    text-align: center;
+}
+.tabla{
+    text-align: center;
+    background-image: url(h.jpg);
+}
+.colres{
+    background-color: black;
+}
